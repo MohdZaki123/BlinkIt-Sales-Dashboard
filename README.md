@@ -201,7 +201,3 @@ This project demonstrates how **Business Intelligence (BI)** tools can be used i
 If you found this project useful, consider giving it a ⭐ on GitHub.
 
 ---
-
-## 📄 License
-
-This project is intended for educational and portfolio purposes.
